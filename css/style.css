@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: monospace;
+    font-size: 16px;
+    line-height: 1.45;
+    height: 100vh;
+    padding: 16px;
+    background-image: linear-gradient( to top, #32321A, #F74C32 );
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .box {
+    background-color: #fff;
+    padding: 16px;
+  }
+  
+  .input {
+    margin-bottom: 36px;
+    width: 75px;
+  }
+  
+  #select {
+    position: relative;
+    top: -4px;
+    width: 100px;
+  }
